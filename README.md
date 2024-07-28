@@ -1,7 +1,5 @@
 # NeuralStockPredictor: A Template Project
 
-[![GitHub license](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square)](https://github.com/Aditya-dom/NeuralStockPredictor/blob/master/LICENSE.txt) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
 NeuralStockPredictor is a project that **introduces** neural networks and illustrates an example of how one can use neural networks to predict stock prices. It is built with the goal of allowing beginners to understand the fundamentals of how neural network models are built and go through the entire workflow of machine learning. This model is in no way sophisticated, so do improve upon this base project in any way. 
 
 The core steps involved is: download stock price data from Yahoo Finance, preprocess the dataframes according to specifications for neural network libraries and finally train the neural network model and backtest over historical data. 
